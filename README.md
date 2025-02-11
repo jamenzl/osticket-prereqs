@@ -29,7 +29,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-![image](https://github.com/user-attachments/assets/cce6cac6-c6c3-426d-a03a-f26136e6c06b)
 </p>
 <p>
 Within the VM, download the zip file 'os.Ticket-Installation-Files.zip' and right click the application folder and click 'Extract All'.
@@ -37,7 +36,7 @@ Within the VM, download the zip file 'os.Ticket-Installation-Files.zip' and righ
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/BnnXW98.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
